@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5AA3-1CE2
+
+ Directory of C:\Users\Lenovo\Desktop\project
+
+25-02-2018  13:20    <DIR>          .
+25-02-2018  13:20    <DIR>          ..
+25-02-2018  13:20                 0 index.txt
+25-02-2018  13:19                 5 test.txt
+               2 File(s)              5 bytes
+               2 Dir(s)  60,074,795,008 bytes free
